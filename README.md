@@ -1,2 +1,7 @@
 # genelbot
-https://www.youtube.com/@luriXgithub
+.env;
+
+TOKEN=
+CLIENT_ID=
+MONGO_URI=
+PREFIX=

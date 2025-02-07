@@ -1,0 +1,22 @@
+{
+    "name": "600-Abone-Ozel-LXG",
+    "version": "1.0.0",
+    "description": "Bilet/Cekilis/Ekonomi/Moderasyon vb. hepsi bir arada!",
+    "main": "lurixgenel.js",
+    "scripts": {
+        "start": "node lurixgenel.js"
+    },
+    "author": "lurixgithub",
+    "license": "MIT",
+    "dependencies": {
+        "discord-html-transcripts": "^3.1.0",
+        "discord.js": "^14.0.0",
+        "dotenv": "^16.0.0",
+        "mongoose": "^7.0.0",
+        "@discordjs/builders": "^1.6.0",
+        "@discordjs/rest": "^2.4.0",
+        "fs": "^0.0.1-security",
+        "figlet": "^1.5.0",
+        "moment": "^2.29.4"
+    }
+}
